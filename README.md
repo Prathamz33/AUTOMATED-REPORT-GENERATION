@@ -121,12 +121,19 @@ AUTOMATED-REPORT-GENERATION/
 ├── sales_chart.png
 ├── Sales_Report.pdf
 └── README.md
+
+
 ▶️ Installation & Execution
+
 1️⃣ Clone the Repository
 git clone <repository-link>
 cd AUTOMATED-REPORT-GENERATION
+
+
 2️⃣ Install Dependencies
 pip install pandas matplotlib reportlab
+
+
 3️⃣ Run the Script
 python report_generator.py
 
