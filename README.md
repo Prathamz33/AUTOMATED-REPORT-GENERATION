@@ -187,3 +187,5 @@ Schedule periodic automated report generation
 ✅ Conclusion
 
 The Automated Report Generation System demonstrates the practical application of Python in building scalable and efficient reporting solutions. By integrating data analysis, visualization, and document automation into a single pipeline, the project reflects strong analytical and development capabilities aligned with industry standards.
+
+OUTPUT - [Sales_Report.pdf](https://github.com/user-attachments/files/25448458/Sales_Report.pdf)
